@@ -21,7 +21,7 @@ Bangkok-based developer building production websites, data systems, and self-hos
 
 Phase 1 closed April 2026. Phase 2 reached end-to-end production validation in week 1. MVP launch targets late August 2026; the first annual report ships December 2026 as a 15–20 page gated PDF with DOI, deposited to Zenodo and SSRN. Journal submission targets 2028–2029, to *Cities*, *Habitat International*, or *Environment and Planning B*.
 
-## Platform I run
+## Backend Infrastructure I run
 
 A single Hetzner CX32 VPS runs the analytics, error monitoring, contracts, CRM, password manager, uptime monitoring, log viewer, and form-capture API for everything I ship. Fully owned, backed up nightly to Cloudflare R2.
 
