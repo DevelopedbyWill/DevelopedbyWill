@@ -7,3 +7,10 @@ synthesis-master.md
 
 # Local brand-voice guidelines (internal, do not push)
 .claude/
+
+# Defense-in-depth — secrets and dependencies never belong in this repo
+node_modules/
+.env
+.env.*
+*.pem
+*.key
