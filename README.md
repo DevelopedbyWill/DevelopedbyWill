@@ -1,6 +1,6 @@
 # Will Reynolds
 
-Bangkok-based developer with a 20-year USAF background and an MBA in progress. Building production websites, data systems, and self-hosted infrastructure — solo, end-to-end, from architecture through deployment.
+Developer with a 20-year USAF background and an MBA in progress. Building production websites, data systems, and self-hosted infrastructure — solo, end-to-end, from architecture through deployment.
 
 ## What I've shipped
 
@@ -8,11 +8,11 @@ Bangkok-based developer with a 20-year USAF background and an MBA in progress. B
 
 **[V Goal Visa Service](https://vgoalvisaservice.com)** — a multilingual consultancy site taken from effectively zero organic presence to position 1 on Google and Bing for branded queries, with sitelinks and AI overviews. Site-wide conversion sits at approximately 15%. ChatGPT referral accounts for roughly 9% of traffic and converts at approximately 58% — the highest of any channel, and the direct result of citation-friendly schema, server-rendered HTML, and explicit Author/Organization markup. Not an accident. Traffic grew roughly tenfold year-on-year, underpinned by a comprehensive Search Engine Optimisation (SEO) and analytics pipeline built on Google Analytics 4 (GA4) with Urchin Tracking Module (UTM) tagging for full attribution across channels. Performance is gated by Lighthouse CI running against the live URL via the PageSpeed Insights API on every PR, nightly, and post-merge — regressions open tracked issues with cooldown to avoid alert fatigue.
 
-**[Developed by Will](https://developedbywill.com)** — my agency. Current focus is the trades vertical: small businesses (HVAC, roofing, plumbing, electricians, lawn care) that need a performance-grade web presence and a real leads pipeline, not a Wix page with a form. The product underneath is an Astro + Cloudflare monorepo where a shared `@trades/schema` package provides typed JSON-LD builders across verticals — `HVACBusiness`, `RoofingContractor`, `Plumber`, `Electrician`, with lawn care handled via `additionalType` because schema.org has no native subtype — so new client sites inherit CI/CD, schema infrastructure, and a Cloudflare D1 leads pipeline on day one. Turnstile server-side verification, D1 writes via prepared statements, Biome strict mode, path-filtered GitHub Actions per site, Lighthouse CI as a deploy gate. PSI ≥ 90, LCP ≤ 2.5s, total page weight ≤ 700KB — hard rules, enforced by CI, not by intention.
+**[Developed by Will](https://developedbywill.com)** — my agency. Current focus is the trades vertical and small businesses that need a performance-grade web presence and a real leads pipeline, not a Wix or SquareSpace page with a form. The product underneath is an Astro + Cloudflare monorepo where client sites inherit CI/CD, schema infrastructure, and a Cloudflare D1 leads pipeline on day one. Turnstile server-side verification, D1 writes via prepared statements, Biome strict mode, path-filtered GitHub Actions per site, Lighthouse CI as a deploy gate. PSI ≥ 90, LCP ≤ 2.5s, total page weight ≤ 700KB — hard rules, enforced by CI, not by intention.
 
 ## Services
 
-Four tiers for trades operators — HVAC, roofing, plumbing, electrician, lawn care. Full pricing posted publicly at [developedbywill.com/pricing](https://developedbywill.com/pricing) so prospective clients self-qualify before either of us commits.
+Four tiers for operators. Full pricing posted publicly at [developedbywill.com/pricing](https://developedbywill.com/pricing) so prospective clients self-qualify before either of us commits.
 
 **Paid Site Audit — scope-based.** Forensic audit of an existing site: mobile + desktop PSI, competitor benchmarking against the top three in the operator's market, dollar-loss calculation specific to the trade, written findings report, Loom walkthrough. Credited toward a build within 60 days.
 
