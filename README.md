@@ -12,7 +12,7 @@ Developer with a 20-year USAF background and an MBA in progress. Building produc
 
 ## Services
 
-Four tiers for operators. Full pricing posted publicly at [developedbywill.com/pricing](https://developedbywill.com/pricing) so prospective clients self-qualify before either of us commits.
+Four tiers of service. 
 
 **Paid Site Audit — scope-based.** Forensic audit of an existing site: mobile + desktop PSI, competitor benchmarking against the top three in the operator's market, dollar-loss calculation specific to the trade, written findings report, Loom walkthrough. Credited toward a build within 60 days.
 
@@ -21,6 +21,8 @@ Four tiers for operators. Full pricing posted publicly at [developedbywill.com/p
 **Site + SEO Setup — one-time.** Everything in New Site plus the local-SEO groundwork most agencies bill monthly for: Google Business Profile rebuild, local schema for every service area, backlink cleanup, citation cleanup across 40+ directories, custom keyword research (~25 terms), 90 days of post-launch edits.
 
 **Ongoing Retainer — optional add-on.** Monthly content updates, two new pages per quarter, quarterly PSI + SEO report, schema + sitemap maintenance, priority response (1 business day). No long-term contract. Most owners run the site themselves after launch — the retainer is the exception, not the default.
+
+Full pricing posted publicly at [developedbywill.com/pricing](https://developedbywill.com/pricing) so prospective clients self-qualify before either of us commits.
 
 ## Research and data work
 
